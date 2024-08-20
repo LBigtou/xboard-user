@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'http://app.cgfw.uk/'
+window.routerBase = 'http://app.cgfw.uk'
 window.settings = {
   // 站点名称
   title: 'GFW',
